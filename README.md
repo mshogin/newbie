@@ -7,7 +7,6 @@
 - установка Python
 - установка IDE
 - первая программа
-- тестирование
 - создание pull-request
 
 Цель проекта: 
@@ -97,3 +96,12 @@ python --version
 
 Идем на https://www.jetbrains.com/ru-ru/pycharm/ , скачиваем дистрибутив и устанавливаем.
 
+# Первая программа
+
+Открываем https://www.jetbrains.com/help/pycharm/basic-tutorials.html
+и выполняем первые 3 шага
+- https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
+- https://www.jetbrains.com/help/pycharm/debugging-your-first-python-application.html
+- https://www.jetbrains.com/help/pycharm/testing-your-first-python-application.html
+
+# Создание pull-request
