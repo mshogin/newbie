@@ -98,10 +98,17 @@ python --version
 
 # Первая программа
 
+## Создаем папку вашего проекта
+Внутри репозитория newbie в папке users создаем папку с именем вашего *username*.
+
+## Готовим код
 Открываем https://www.jetbrains.com/help/pycharm/basic-tutorials.html
 и выполняем первые 3 шага
 - https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
 - https://www.jetbrains.com/help/pycharm/debugging-your-first-python-application.html
 - https://www.jetbrains.com/help/pycharm/testing-your-first-python-application.html
 
+
 # Создание pull-request
+
+Пришло время создать pull-request. 
